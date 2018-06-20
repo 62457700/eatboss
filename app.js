@@ -24,7 +24,7 @@ var bot = linebot({
 var con = mysql.createConnection({
     host: "us-cdbr-iron-east-04.cleardb.net",
     user: "b39aa56085284b",
-    password: "71b22bf6 ",
+    password: "71b22bf6",
     database: "heroku_f73985ce8de4d0b"
 });
 
