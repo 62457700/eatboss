@@ -15,17 +15,17 @@ var mysql = require("mysql");
 //如果需要主動提醒的話，需要有 Message push API 的權限
 //可以申請 Developer Trial 的話免費的也有 Message push API 權限，但有限制好友數量
 var bot = linebot({
-    channelId: 'Line Channel ID',
-    channelSecret: 'Line Channel Secret',
-    channelAccessToken: 'Line Channel Acccess Token'
+    channelId: '1586263961',
+    channelSecret: '726259dc13bad699b9e4cb4169ebd4da',
+    channelAccessToken: 'JBmAr02p9vQwb9RX8b/HkTUtqn+V4eXfHekcoZFIHtnnfOFpMFOa3ryg1yLOHek5++TMnmtLX2TKPjyqvD+sioQ9dz+b3ler0mERqGe17IilYK4CngZNOk1clxwOibioK2wFjSJpTJeOov7PeA/nvQdB04t89/1O/w1cDnyilFU='
 });
 
 //請填入 MySql Database 資訊
 var con = mysql.createConnection({
-    host: "MySql Database Host",
-    user: "MySql Database Account",
-    password: "MySql Database Passwrod",
-    database: "MySql Database Name"
+    host: "us-cdbr-iron-east-04.cleardb.net",
+    user: "b359210e70d481",
+    password: "7c3c1f77",
+    database: "heroku_f359e02e8ed9cc4"
 });
 
 con.connect(function(err) {
