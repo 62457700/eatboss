@@ -1,0 +1,1554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5348384e-ad99-4957-a5f2-40daf3ab1b6e" name="Default" comment="" />
+    <ignored path="lineagem2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="lineagem2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3256">
+              <caret line="885" column="29" selection-start-line="885" selection-start-column="29" selection-end-line="885" selection-end-column="29" />
+              <folding>
+                <element signature="e#1618#6420#0" expanded="false" />
+                <element signature="e#1828#1880#0" expanded="false" />
+                <element signature="e#1918#1969#0" expanded="false" />
+                <element signature="e#2005#2802#0" expanded="false" />
+                <element signature="e#6458#6492#0" expanded="false" />
+                <element signature="e#6571#6643#0" expanded="false" />
+                <element signature="e#6701#6947#0" expanded="false" />
+                <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+                <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+                <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+                <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+                <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+                <element signature="n#!!block;n#addQueue#0" expanded="false" />
+                <element signature="n#!!block;n#addList#0" expanded="false" />
+                <element signature="e#14289#14354#0" expanded="false" />
+                <element signature="n#!!block;n#removeList#0" expanded="false" />
+                <element signature="n#!!block;n#getList#0" expanded="false" />
+                <element signature="n#!!block;n#pushGift#0" expanded="false" />
+                <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+                <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+                <element signature="n#!!block;n#setBoss#0" expanded="false" />
+                <element signature="n#!!block;n#addBoss#0" expanded="false" />
+                <element signature="n#!!block;n#getBoss#0" expanded="false" />
+                <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+                <element signature="n#!!block;n#authorize#0" expanded="false" />
+                <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+                <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+                <element signature="n#!!block;n#whois#0" expanded="false" />
+                <element signature="n#!!block;n#pushName#0" expanded="false" />
+                <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/routes/linebot.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lineagem2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lineagem2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lineagem2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="FullScreen" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bimair_old" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5348384e-ad99-4957-a5f2-40daf3ab1b6e" name="Default" comment="" />
+      <created>1516597651824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516597651824</updated>
+      <workItem from="1516597652996" duration="11272000" />
+      <workItem from="1516611703867" duration="7487000" />
+      <workItem from="1516623188911" duration="274000" />
+      <workItem from="1516695436171" duration="2643000" />
+      <workItem from="1516699636314" duration="215000" />
+      <workItem from="1516704012842" duration="343000" />
+      <workItem from="1516709470482" duration="6151000" />
+      <workItem from="1516730059658" duration="261000" />
+      <workItem from="1517568373978" duration="3478000" />
+      <workItem from="1517576421267" duration="5000" />
+      <workItem from="1518457525835" duration="1274000" />
+      <workItem from="1520397833300" duration="608000" />
+      <workItem from="1520621994343" duration="8003000" />
+      <workItem from="1520698081574" duration="4221000" />
+      <workItem from="1520839479554" duration="633000" />
+      <workItem from="1521002897739" duration="360000" />
+      <workItem from="1521004028247" duration="970000" />
+      <workItem from="1521006476631" duration="213000" />
+      <workItem from="1521007633924" duration="8721000" />
+      <workItem from="1521206005590" duration="2288000" />
+      <workItem from="1521425057123" duration="272000" />
+      <workItem from="1522296694926" duration="10000" />
+      <workItem from="1522314402340" duration="574000" />
+      <workItem from="1522329877551" duration="22000" />
+      <workItem from="1522400368239" duration="25000" />
+      <workItem from="1522734208523" duration="1359000" />
+      <workItem from="1525233603274" duration="109000" />
+      <workItem from="1525234707788" duration="517000" />
+      <workItem from="1528865140857" duration="457000" />
+      <workItem from="1528867101555" duration="10000" />
+      <workItem from="1528867461961" duration="8000" />
+      <workItem from="1528868216081" duration="2876000" />
+      <workItem from="1528877102171" duration="67000" />
+      <workItem from="1529034294531" duration="392000" />
+      <workItem from="1529376920251" duration="2340000" />
+      <workItem from="1529498550677" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68506000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/linebot/lib/linebot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3696">
+          <caret line="168" column="7" selection-start-line="168" selection-start-column="7" selection-end-line="168" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/linebot/lib/linebot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/linebot.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/RowDataPacket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="32" column="76" selection-start-line="32" selection-start-column="76" selection-end-line="32" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/linebot/lib/linebot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="161" column="2" selection-start-line="161" selection-start-column="2" selection-end-line="161" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mysql/lib/Connection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4246">
+          <caret line="193" column="0" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3256">
+          <caret line="885" column="29" selection-start-line="885" selection-start-column="29" selection-end-line="885" selection-end-column="29" />
+          <folding>
+            <element signature="e#1618#6420#0" expanded="false" />
+            <element signature="e#1828#1880#0" expanded="false" />
+            <element signature="e#1918#1969#0" expanded="false" />
+            <element signature="e#2005#2802#0" expanded="false" />
+            <element signature="e#6458#6492#0" expanded="false" />
+            <element signature="e#6571#6643#0" expanded="false" />
+            <element signature="e#6701#6947#0" expanded="false" />
+            <element signature="n#!!block;n#helpBoss#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift2#0" expanded="false" />
+            <element signature="n#!!block;n#findQueueByUserName#0" expanded="false" />
+            <element signature="n#!!block;n#distributionGift#0" expanded="false" />
+            <element signature="n#!!block;n#pushDistribution#0" expanded="false" />
+            <element signature="n#!!block;n#addQueue#0" expanded="false" />
+            <element signature="n#!!block;n#addList#0" expanded="false" />
+            <element signature="e#14289#14354#0" expanded="false" />
+            <element signature="n#!!block;n#removeList#0" expanded="false" />
+            <element signature="n#!!block;n#getList#0" expanded="false" />
+            <element signature="n#!!block;n#pushGift#0" expanded="false" />
+            <element signature="n#!!block;n#setAlertTime#0" expanded="false" />
+            <element signature="n#!!block;n#removeBoss#0" expanded="false" />
+            <element signature="n#!!block;n#setBoss#0" expanded="false" />
+            <element signature="n#!!block;n#addBoss#0" expanded="false" />
+            <element signature="n#!!block;n#getBoss#0" expanded="false" />
+            <element signature="n#!!block;n#noteBoss#0" expanded="false" />
+            <element signature="n#!!block;n#authorize#0" expanded="false" />
+            <element signature="n#!!block;n#pushBoss#0" expanded="false" />
+            <element signature="n#!!block;n#checkInMember#0" expanded="false" />
+            <element signature="n#!!block;n#whois#0" expanded="false" />
+            <element signature="n#!!block;n#pushName#0" expanded="false" />
+            <marker date="1528871191000" expanded="true" signature="32094:34568" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
