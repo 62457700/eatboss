@@ -22,7 +22,7 @@ var bot = linebot({
 
 //請填入 MySql Database 資訊
 var con = mysql.createConnection({
-    host: "eatboss.c7zslzzmsbyq.us-east-2.rds.amazonaws.com",
+    host: "eatboss.cxpa3ji9kbiy.ap-northeast-1.rds.amazonaws.com",
     user: "eatboss",
     password: "a62457700",
     database: "eatboss1"
