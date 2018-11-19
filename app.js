@@ -15,6 +15,7 @@ var mysql = require("mysql");
 //如果需要主動提醒的話，需要有 Message push API 的權限
 //可以申請 Developer Trial 的話免費的也有 Message push API 權限，但有限制好友數量
 var bot = linebot({
+
     channelId: '1586263961',
     channelSecret: '726259dc13bad699b9e4cb4169ebd4da',
     channelAccessToken: 'JBmAr02p9vQwb9RX8b/HkTUtqn+V4eXfHekcoZFIHtnnfOFpMFOa3ryg1yLOHek5++TMnmtLX2TKPjyqvD+sioQ9dz+b3ler0mERqGe17IilYK4CngZNOk1clxwOibioK2wFjSJpTJeOov7PeA/nvQdB04t89/1O/w1cDnyilFU='
@@ -22,12 +23,11 @@ var bot = linebot({
 
 //請填入 MySql Database 資訊
 var con = mysql.createConnection({
-    host: "eatboss-master.cxpa3ji9kbiy.ap-northeast-1.rds.amazonaws.com",
+    host: "eatboss.c7zslzzmsbyq.us-east-2.rds.amazonaws.com",
     user: "eatboss",
     password: "a62457700",
-    database: "eatboss1"
+    database: "eatboss"
 });
-
 
 con.connect(function(err) {
     if (err) {
@@ -279,7 +279,7 @@ function helpBoss(event, clans) {
         message += "目前提醒功能：關閉"
     }
 
-    message += "目前開放的指令有：boss(時間表),note(備註),alert(提醒),add(加入),remove(刪除),set(設定),clear(清除),list(清單),whois\n\n";
+    message += "目前開放的指令有：boss(時間表),note(備註),alert(提醒),add(加入),remove(刪除),set(設定),clear(清除),list(清單)\n\n";
     message += "指令輸入中文或英文皆可。\n\n";
 
     message += "指令：更新時間表\n";
@@ -794,7 +794,7 @@ function deathBoss(event, clans) {
         data[0] = data[1] = '';
         var note = data.join(' ');
         con.query('UPDATE boss SET ? WHERE id = ?', [
-            {estimated_time: date, note: note, is_alert: 0, count: 0},
+            {estimated_time: date, note: note, is_alert: 0},
             boss.id
         ], function (err, rows) {
             if (err) {
@@ -1113,59 +1113,6 @@ var j = schedule.scheduleJob('*/2 * * * *', function(){
         for(var i = 0; i < clans.length; i++) {
             pushBoss(clans[i]);
         };
-    });
-
-    var beforeTime = Date.now() + (8 * 60 * 60 * 1000) - (10 * 60 * 1000);
-    beforeTime = new Date(beforeTime);
-    var beforeHours = '' + beforeTime.getHours() < 10 ?
-    '0' + beforeTime.getHours() : beforeTime.getHours();
-    var beforeMinutes = '' + beforeTime.getMinutes() < 10 ?
-    '0' + beforeTime.getMinutes() : beforeTime.getMinutes();
-
-    var beforeDate = beforeTime.getFullYear() + '/'
-        + (beforeTime.getMonth() + 1) + '/'
-        + beforeTime.getDate() + ' '
-        + beforeHours + ':' + beforeMinutes + ':00';
-
-    con.query('SELECT * FROM boss WHERE estimated_time < ?', [ beforeDate ], function (err, bosses) {
-        if (err) {
-            console.log('自動順推錯誤：');
-            console.log(err);
-            return ;
-        }
-
-        var nowTime = Date.now() + (8 * 60 * 60 * 1000);
-        for(var i = 0; i < bosses.length; i++) {
-            var boss = bosses[i];
-            if (! boss.rebirth_time || ! boss.estimated_time) {
-                return ;
-            }
-            var estimatedTime = Date.parse(boss.estimated_time);
-            var rebirthTime = boss.rebirth_time * 60 * 60 * 1000;
-
-            var subTime = nowTime - estimatedTime;
-            var count = Math.ceil(subTime / rebirthTime);
-            var bossTime = estimatedTime + (rebirthTime * count);
-
-            bossTime = new Date(bossTime);
-            var hours = '' + bossTime.getHours() < 10 ?
-            '0' + bossTime.getHours() : bossTime.getHours();
-            var minutes = '' + bossTime.getMinutes() < 10 ?
-            '0' + bossTime.getMinutes() : bossTime.getMinutes();
-
-            var date = bossTime.getFullYear() + '/'
-                + (bossTime.getMonth() + 1) + '/'
-                + bossTime.getDate() + ' '
-                + hours + ':' + minutes + ':00';
-
-            var note = 'Auto ' + (boss.count + count);
-            con.query('UPDATE boss SET ? WHERE id = ?', [
-                {estimated_time: date, note: note, is_alert: 0, count: boss.count + count},
-                boss.id
-            ], function (err, rows) {
-
-            });
-        }
     });
 });
 
