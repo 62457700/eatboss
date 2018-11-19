@@ -22,10 +22,10 @@ var bot = linebot({
 
 //請填入 MySql Database 資訊
 var con = mysql.createConnection({
-   host: "",
-    user: "",
-    password: "",
-    database: ""
+    host: "eatboss.c7zslzzmsbyq.us-east-2.rds.amazonaws.com",
+    user: "eatboss",
+    password: "a62457700",
+    database: "eatboss1"
 });
 
 
@@ -272,7 +272,7 @@ function helpBoss(event, clans) {
 
     message += "目前綁定伺服器：" + clan.server + "\n";
     message += "目前綁定血盟：" + clan.name + "\n";
-    message += "作者：命運女神-兔盟-孟宗竹" + "\n";
+    message += "作者：命運女神" + "\n";
     if (clan.alert_time) {
         message += "目前提醒功能：開啟(提前 "+clan.alert_time+" 分鐘提醒)\n";
     } else {
