@@ -25,8 +25,8 @@ var bot = linebot({
 var con = mysql.createConnection({
     host: "eatboss.c7zslzzmsbyq.us-east-2.rds.amazonaws.com",
     user: "eatboss",
-    password: "a62457700",
-    database: "eatboss"
+    password: "tng636788",
+    database: "eatboss1"
 });
 
 con.connect(function(err) {
